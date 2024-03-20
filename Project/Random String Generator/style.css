@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    text-align: center;
+    align-items: center;
+}
+
+#randomString{
+    margin: 20px 0;
+    font-size: 30px;
+}
+
+button{
+    padding: 15px;
+    border: 1px solid black;
+    color: black;
+    background-color: #fff;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover{
+    color: #fff;
+    background-color: #000000;
+}
